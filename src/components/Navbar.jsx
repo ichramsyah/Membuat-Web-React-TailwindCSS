@@ -49,13 +49,13 @@ const Navbar = () => {
             </li>
             <li className="flex items-center gap-2">
               <i className="ri-customer-service-line md:hidden block"></i>
-              <a href="#" className="font-medium opacity-75">
+              <a href="#services" className="font-medium opacity-75">
                 Services
               </a>
             </li>
             <li className="flex items-center gap-2">
               <i className="ri-article-line md:hidden block"></i>
-              <a href="#" className="font-medium opacity-75">
+              <a href="#project" className="font-medium opacity-75">
                 Project
               </a>
             </li>

@@ -44,7 +44,7 @@ const Homepage = () => {
           </div>
         </div>
 
-        <div className="services pt-20">
+        <div id="#services" className="services pt-20">
           <HeaderContent header="Layanan" paragraf="Lorem ipsum dolor sit amet consectetur adipisicing elit." />
           <div className="service-box grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 pt-10 sm:gap-5 gap-4 md:gap-7">
             <ServicesBox
@@ -68,7 +68,7 @@ const Homepage = () => {
           </div>
         </div>
 
-        <div className="project pt-20">
+        <div id="#project" className="project pt-20">
           <HeaderContent header="Projects" paragraf="Lorem ipsum dolor sit amet consectetur, adipisicing elit." />
           <div className="project-box grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-7 pt-8">
             <Card3D
